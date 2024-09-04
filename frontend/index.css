@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+}
+.task-mng{
+  display: flex;
+  justify-content: start;
+color: aqua;
+}
+.buttons
+{
+display:flex;
+justify-content:end;
+}
+.b1,.b2,.b3,.b4{
+  font-size:1.4rem;
+  font-family: monospace;
+  row-gap: 2;
+}
